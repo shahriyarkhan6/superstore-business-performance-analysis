@@ -13,4 +13,5 @@ Using transaction data from 2023–2026, the analysis combines historical perfor
 3. What should management expect in 2027?
 
 The project uses Power Query for data preparation, PivotTables and the Excel Data Model for analysis, budget-versus-actual modelling, and monthly ETS forecasting to produce an executive-level dashboard with actionable recommendations.
+
 <img width="733" height="1052" alt="business_performance_dashboard png" src="https://github.com/user-attachments/assets/74872eea-32b9-4f21-a370-f8c3059f78f2" />
